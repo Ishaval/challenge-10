@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "inquirer": "latest"
+  },
+  "devDependencies": {
+    "jest": "latest"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

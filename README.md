@@ -1,30 +1,40 @@
-# LOGO GENERATOR
+# Simple Logo Generator
 
-    ## Description
-    A simple app that use javascript and SVG to generate a really simple logo of three characters and one color background
+A Node.js command-line application to generate a simple logo and save it as an SVG file.
 
-    ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+## Demo Video
 
-    ## Installation
-    download the libraries in the repo, once dowload use the terminal and use comand line "node index.js"
+[Walkthrough Video](https://www.example.com/video)
 
-    ## Usage
-    once used the terminal enter the criteria for your logo and see if everything is accepted
+## Prerequisites
 
-    ## License
-    This project is licensed under the ... license.
+- Node.js
 
-    ## Contributing
-    ...
+## Installation
 
-    ## Tests
-    ...
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/simple-logo-generator.git .
 
-    ## Questions
-    If you have any questions, feel free to reach out to me at [juliannrra@outlook.es](mailto:juliannrra@outlook.es). You can also check out my GitHub profile at [https://github.com/Ishaval].
+cd simple-logo-generator.
+
+npm install.
+
+## USAGE
+
+1. Start the application
+
+Copy code
+node index.js
+Follow the prompts to enter logo text, text color, shape, and shape color.
+
+The generated SVG file will be saved as logo.svg.
+
+Open the logo.svg file in a browser to view the logo.
+
+Running Tests
+To run the tests, execute the following command:
+
+bash
+Copy code
+npm test
