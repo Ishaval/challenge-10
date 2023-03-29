@@ -4,7 +4,7 @@ A Node.js command-line application to generate a simple logo and save it as an S
 
 ## Demo Video
 
-[Walkthrough Video](https://www.example.com/video)
+[Walkthrough Video](https://drive.google.com/drive/folders/1hJkrkyqd3w4bu1jc6A_JhQB2mTthU1k_?usp=sharing)
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ A Node.js command-line application to generate a simple logo and save it as an S
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/simple-logo-generator.git .
+git clone https://github.com/Ishaval/challenge-10.git .
 
 cd simple-logo-generator.
 
